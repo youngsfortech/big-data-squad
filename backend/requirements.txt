@@ -1,0 +1,28 @@
+# Installation: pip install -r requirements.txt
+
+# Framework Web
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# NLP & Text Processing
+rapidfuzz==3.5.2
+nltk==3.8.1
+
+# Web Scraping (pour enrichissement du dictionnaire)
+beautifulsoup4==4.12.2
+requests==2.31.0
+lxml==4.9.3
+
+# Text-to-Speech
+gTTS==2.4.0
+
+# Data Processing
+python-dotenv==1.0.0
+pydantic==2.5.0
+
+# CORS Support
+python-jose[cryptography]==3.3.0
+
+# Optional: Pour déploiement production
+gunicorn==21.2.0
