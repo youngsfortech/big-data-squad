@@ -48,6 +48,7 @@ window.MalagasyEditor = function() {
 
   const handleTextSelection = (word) => {
     setSelectedWord(word);
+    setActiveTab("word")
     analyzeWord(word);
   };
 
