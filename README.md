@@ -209,7 +209,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 **Développeur** : Fabrice <br>
 **Projet** : Éditeur Malgache Intelligent <br>
-**Institution** : NIMP (Institut Supérieur Polytechnique de Madagascar)
+**Institution** : ISPM (Institut Supérieur Polytechnique de Madagascar)
 
 ---
 
