@@ -148,69 +148,69 @@ python -m http.server 8080
 ### Sources de Données
 
 #### Corpus et Dictionnaires
-- **Wikipedia Malagasy** (mg.wikipedia.org) - Articles encyclopédiques
-- **Teny Malagasy** (tenymalagasy.org) - Dictionnaire malagasy-français
-- **Rakibolana** (rakibolana.org) - Dictionnaire unilingue
-- **Wiktionary Malagasy** (mg.wiktionary.org) - Dictionnaire collaboratif
+- **Wikipédia malgache** (mg.wikipedia.org) - Articles encyclopédiques
+- **Teny Malgache** (tenymalagasy.org) - Dictionnaire malgache-français
+- **Rakibolane** (rakibolana.org) - Dictionnaire unilingue
+- **Wiktionnaire malgache** (mg.wiktionary.org) - Dictionnaire collaboratif
 
-### Documentation Technique
+### Technique de documentation
 
-#### Frameworks et Bibliothèques
-- **FastAPI** : https://fastapi.tiangolo.com - Framework API Python moderne
-- **React** : https://react.dev - Bibliothèque UI JavaScript
+#### Cadres et Bibliothèques
+- **Rapide API** : https://fastapi.tiangolo.com - Framework API Python moderne
+- **Réagir** : https://react.dev - Bibliothèque UI JavaScript
 - **Quill.js** : https://quilljs.com - Éditeur de texte riche
-- **Requests** : https://requests.readthedocs.io - HTTP pour Python
-- **BeautifulSoup4** : https://www.crummy.com/software/BeautifulSoup - Parsing HTML
+- **Demandes** : https://requests.readthedocs.io - HTTP pour Python
+- **BelleSoupe4** : https://www.crummy.com/software/BeautifulSoup - Analyseur HTML
 
 #### Algorithmes
-- Wagner-Fischer Algorithm pour distance de Levenshtein
-- N-gram Language Models (Manning & Schütze, 1999)
-- Lexicon-based Sentiment Analysis
+- Algorithme de Wagner-Fischer pour la distance de Levenshtein
+- Modèles linguistiques N-gram (Manning et Schütze, 1999)
+- Analyseur des sentiments basés sur le lexique
 
-### Standards et Normes
-- **ISO 639-3** : mlg (Code langue malagasy)
-- **Unicode** : Support complet des caractères malagasy
-- **REST API** : Architecture de l'API backend
+### Normes et standards
+- **ISO 639-3** : mlg (Code langue malgache)
+- **Unicode** : Soutien complet des carrières malgaches
+- **API REST** : Architecture de l'API backend
 
-##  Technologies Utilisées
+## Technologies Utilisées
 
 ### Backend
 - Python 3.8+
 - FastAPI (API REST)
-- Requests (HTTP)
+- Demandes (HTTP)
 - BeautifulSoup4 (Scraping)
 
-### Frontend
-- React 18
+### Front-end
+- Réagir 18
 - Quill.js
-- Babel Standalone
+- Babel autonome
 - CSS3
 
 ### Algorithmes IA
 - Distance de Levenshtein
 - Modèles n-gram
-- Analyse lexicale
+- Analyseur le lexical
 - Graphes sémantiques
 
-##  License
+## Licence
 
-MIT License - Libre d'utilisation à des fins éducatives et de recherche.
+Licence MIT - Libre d'utilisation à des fins éducatives et de recherche.
 
-##  Contributions
+## Contributions
 
 Les contributions sont les bienvenues ! Pour contribuer :
-1. Fork le projet
-2. Créez une branche (`git checkout -b feature/amelioration`)
-3. Commit vos changements (`git commit -m 'Ajout fonctionnalité'`)
-4. Push vers la branche (`git push origin feature/amelioration`)
+1. Fourche le projet
+2. Créez une branche (`git checkout -b fonctionnalité/amélioration`)
+3. Engagez vos changements (`git commit -m 'Ajout fonctionnalité'`)
+4. Poussez vers la branche (`fonctionnalitéalité/édition de l'origine git push`)
 5. Ouvrez une Pull Request
 
-##  Contact
+## Contact
 
-**Développeur** : Fabrice
-**Projet** : Éditeur Malagasy Intelligent
-**Institution** : ISPM (Institut Supérieur Polytechnique de Madagascar)
+**Développeur** : Fabrice <br>
+**Projet** : Éditeur Malgache Intelligent <br>
+**Institution** : NIMP (Institut Supérieur Polytechnique de Madagascar)
 
 ---
 
-**Note** : Pour les détails techniques d'implémentation, consultez les README spécifiques dans les dossiers `frontend/` et `backend/`.
+**Note** : Pour les détails techniques d'implémentation, consultez les README spécifiques dans les dossiers `interface/` et `backend/`.
